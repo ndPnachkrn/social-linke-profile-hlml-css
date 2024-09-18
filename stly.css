@@ -1,0 +1,71 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    max-width: 1440px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+h2 {
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    text-align: center;
+    line-height: 10%;
+}
+
+h4 {
+    color: hsl(75, 94%, 57%);
+    font-family: Inter;
+    text-align: center;
+   
+}
+
+p {
+    font-size: 14px;
+    font-family: Inter;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+button {
+    display: block;
+    width: 85%;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter";
+    font-weight: 700;
+   
+}
+
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.box1 {
+    background-color: hsl(0, 0%, 12%);
+    width: 30%;
+    border-radius: 10px;
+    padding-top: 40px;
+    margin: auto;
+    margin-top: 40px;
+    padding-bottom: 30px;
+    display: block;
+    
+}
+.potoprofile {
+    border-radius: 100%;
+    width: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+}
